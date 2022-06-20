@@ -19,10 +19,10 @@ Feito isso, basta acessar:
 > http://localhost:3000
 
 ### Home
-![alt text](path/to/file)
+![](https://github.com/mrgreque/cineflix/blob/main/readme/Home.PNG)
 
 ### Página de Detalhes
-![alt text](path/to/file)
+![](https://github.com/mrgreque/cineflix/blob/main/readme/Filme.PNG)
 
 ### Página de Meus Filmes Aguardados
-![alt text](path/to/file)
+![](https://github.com/mrgreque/cineflix/blob/main/readme/Lista.PNG)
