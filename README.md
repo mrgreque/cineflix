@@ -1,5 +1,5 @@
 # CineFilx
-#### Este desenvolvimento consiste em uma página Web, feita utilizando ReactJS, onde são exibidos os filmes que estão em cartaz, através de uma API externa.
+#### Este desenvolvimento consiste em uma página Web, feita utilizando ReactJS, onde são exibidos os filmes que estão em cartaz, através de uma API externa. Caso queira verificar o resultado final, acesse: https://cineflix-eta.vercel.app/
 
 Para instalar as dependências do projeto
 > yarn
